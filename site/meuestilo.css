@@ -1,0 +1,17 @@
+
+/*Seletor de Elemento*/
+body{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Seletor de Classe*/
+.titulo{
+    text-align: center;
+    margin: 2%;
+}
+
+section{
+    border-left: solid;
+}
+
